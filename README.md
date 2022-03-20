@@ -10,4 +10,4 @@ Public community monitoring service: pro-nodes.com/mon/d/umee-1
 
 ## RPC servers:
 http://rpc-umee-0.node75.org:26657
-
+Public RPC, P2P, Snapshot node 
