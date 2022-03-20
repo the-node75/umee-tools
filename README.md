@@ -8,7 +8,7 @@ https://github.com/shurinov/mon_umee
 
 Public community monitoring service: 
 http://pro-nodes.com/mon/d/umee-1
-### Metrick connection settings
+### Metric connection settings
 |Param | Value |
 | :-:  | :-:|
 Monitoring database name | umeemetricsdb
