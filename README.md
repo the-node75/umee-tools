@@ -1,3 +1,4 @@
+![UMEE_logo](https://github.com/the-node75/umee-tools/raw/main/umee-xsmall-logo%20.png)
 # UMEE-tools
 Our public usefull tools and services for UMEE network
 
