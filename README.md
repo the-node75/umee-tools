@@ -16,6 +16,12 @@ Monitoring server path (urls) | http://pro-nodes.com:8086
 Monitoring server username | metrics
 Monitoring server password | password
 
+## Ethereum bridge monitoring dashboard (Peggo Overall Dashboard)
+
+[Tool](http://www.pro-nodes.com/mon/d/UMEE_Peggo_Overall) for collect overall information about UMEE-Ethereum bridge status by each validators.
+Anyone can check if each validator's Peggo bridge is set up correctly.
+
+![Peggo Overall Dashboard screenshort](https://raw.githubusercontent.com/the-node75/umee-tools/main/resource/peggo_overall_dashboard.png "Dashboard screenshort")
 
 ## IBC relaying by out validator
 
