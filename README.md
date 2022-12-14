@@ -54,5 +54,7 @@ You can use this tenderseed server to get an up-to-date address book
 ```
 
 ## Active validator in UMEE Testnets:
-Umeemania https://umeemania.explorers.guru/validator/umeevaloper1t3yw6l2258gexf2j77usg3mlccc5cx465j8w7w
 
+Canon-2 chain validator.
+
+Link to explorer: https://explorer.network.umee.cc/canon-2/staking/umeevaloper1jpfl9lefcf9f8hk08k5v8nav6ukwvy6ed5c9ze
