@@ -52,6 +52,7 @@ You can use this tenderseed server to get an up-to-date address book
 ```
 86bd5cb6e762f673f1706e5889e039d5406b4b90@umee.seed.node75.org:10656
 ```
+More info about [our seed node service](https://node75.org/?page_id=2974)
 
 ## Active validator in UMEE Testnets:
 
