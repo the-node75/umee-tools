@@ -17,15 +17,21 @@ Monitoring server username | metrics
 Monitoring server password | password
 
 ## Testnet Peggo and PFD overall dashboard
-*Canon-2* testnet dashboard with peggo and pfd performance by validators
+
+*Canon-2* testnet dashboard with peggo and pfd performance by validators.
+
 Link: https://node75.org/mon/d/UMEE_Testnet_Peggo_PFD
 
-## Ethereum bridge monitoring dashboard (Peggo Overall Dashboard)
+## Mainnet Peggo and PFD overall dashboard
 
-[Tool](http://www.pro-nodes.com/mon/d/UMEE_Peggo_Overall) for collect overall information about UMEE-Ethereum bridge status by each validators.
-Anyone can check if each validator's Peggo bridge is set up correctly.
+New version of overall dashboard. 
 
-![Peggo Overall Dashboard screenshort](https://github.com/the-node75/umee-tools/raw/main/peggo_overall_dashboard.png "Dashboard screenshort")
+Allows you to monitor Peggo and price-oracle (Price-Feeder) status for each network validator.
+
+Link to dashboard: https://node75.org/mon/d/UMEE_Main_Overall
+
+![Mainnet Overall Dashboard screenshort 0](https://github.com/the-node75/umee-tools/raw/main/Umee_Mainnet_Overall_Dashboard_v1_0.png "Mainnet Overall dashboard screenshort 0")
+![Mainnet Overall Dashboard screenshort 1](https://github.com/the-node75/umee-tools/raw/main/Umee_Mainnet_Overall_Dashboard_v1_1.png "Mainnet Overall dashboard screenshort 1")
 
 ## IBC relaying by out validator
 
