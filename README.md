@@ -16,17 +16,17 @@ Monitoring server path (urls) | http://pro-nodes.com:8086
 Monitoring server username | metrics
 Monitoring server password | password
 
-## Testnet Peggo and PFD overall dashboard
+## Testnet  PFD overall dashboard
 
-*Canon-2* testnet dashboard with peggo and pfd performance by validators.
+*Canon-3* testnet dashboard with peggo and pfd performance by validators.
 
-Link: https://node75.org/mon/d/UMEE_Testnet_Peggo_PFD
+Link: https://node75.org/mon/d/UMEE_Testnet_Overall
 
-## Mainnet Peggo and PFD overall dashboard
+## Mainnet PFD overall dashboard
 
 New version of overall dashboard. 
 
-Allows you to monitor Peggo and price-oracle (Price-Feeder) status for each network validator.
+Allows you to monitor price-oracle (Price-Feeder) status for each network validator.
 
 Link to dashboard: https://node75.org/mon/d/UMEE_Main_Overall
 
